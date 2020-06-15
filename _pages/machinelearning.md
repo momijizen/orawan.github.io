@@ -1,10 +1,8 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /ml-projects/
+title: "Machine Learning projects"
 author_profile: true
 header:
-  image: "/images/fort point.png"
+  image: "/images/2_head.jpg"
 ---
-
-

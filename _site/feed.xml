@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-15T13:05:54+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MOMIJIZEN</title><subtitle>My blog</subtitle><author><name>ORAWAN M.</name></author><entry><title type="html">Project 002</title><link href="http://localhost:4000/project002/" rel="alternate" type="text/html" title=" Project 002" /><published>2018-02-03T00:00:00+07:00</published><updated>2018-02-03T00:00:00+07:00</updated><id>http://localhost:4000/project002</id><content type="html" xml:base="http://localhost:4000/project002/">&lt;p&gt;MLML  Project 002&lt;/p&gt;
+&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+
+&lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
+
+&lt;h3 id=&quot;h3-heading&quot;&gt;H3 Heading&lt;/h3&gt;</content><author><name>ORAWAN M.</name></author><category term="data wrangling" /><category term="data science" /><category term="messy data" /><summary type="html">Data Wrangling, Data Science, Messy Data</summary></entry><entry><title type="html">Project 001</title><link href="http://localhost:4000/project001/" rel="alternate" type="text/html" title=" Project 001" /><published>2018-01-28T00:00:00+07:00</published><updated>2018-01-28T00:00:00+07:00</updated><id>http://localhost:4000/project001</id><content type="html" xml:base="http://localhost:4000/project001/">&lt;p&gt;MLML  Project 001&lt;/p&gt;
+&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+
+&lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
+
+&lt;h3 id=&quot;h3-heading&quot;&gt;H3 Heading&lt;/h3&gt;</content><author><name>ORAWAN M.</name></author><category term="data wrangling" /><category term="data science" /><category term="messy data" /><summary type="html">Data Wrangling, Data Science, Messy Data</summary></entry></feed>

@@ -1,0 +1,12 @@
+I"}<p>var store = [{
+        “title”: “ Project 001”,
+        “excerpt”:”MLML  Project 001H1 HeadingH2 HeadingH3 Heading”,”categories”: [],
+        “tags”: [“data wrangling”,”data science”,”messy data”],
+        “url”: “http://localhost:4000/project001/”,
+        “teaser”:null},{
+        “title”: “ Project 002”,
+        “excerpt”:”MLML  Project 002H1 HeadingH2 HeadingH3 Heading”,”categories”: [],
+        “tags”: [“data wrangling”,”data science”,”messy data”],
+        “url”: “http://localhost:4000/project002/”,
+        “teaser”:null}]</p>
+:ET

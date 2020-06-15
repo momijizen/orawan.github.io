@@ -5,18 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme                    : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Orawan Mangmee"
+locale                   : "th-TH"
+title                    : "MOMIJIZEN"
 title_separator          : "-"
-name                     : "Orawan Mangmee"
-description              : "Data Science Portfolio"
+name                     : "ORAWAN M."
+description              : "My blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo  : "/images/maple_leaf.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -84,10 +86,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Orawan Mangmee"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Chonburi, Thailand"
+  name             : "ORAWAN M."
+  avatar           : "/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I would like to be a data scientist. Keep fighting."
+  location         : "Bangkok, Thailand"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -190,9 +192,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
+#  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -200,7 +201,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+#  - jemoji
 
 
 # Archives

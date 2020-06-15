@@ -1,13 +1,15 @@
 ---
-title: "Data Wrangling Project"
+title: " Project 001"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/project001/ballboon.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
+
+MLML  Project 001
 # H1 Heading
 
 ## H2 Heading
